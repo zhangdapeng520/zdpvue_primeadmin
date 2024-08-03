@@ -1,2 +1,7 @@
 # zdpvue_primeadmin
-基于PrimeVue的Sakai Vue二次开发的底层模板
+
+## 开发环境
+
+- nodejs20
+- webstorm2024
+
